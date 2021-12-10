@@ -1,4 +1,9 @@
 2021년 상반기 진행
+* 기본적인 적용 내용
+  * 이용된 데이터는 2D 이미지로 학습 내용에서는 Covolution 2D를 적용
+  * 커널 함수의 activation에서는 학습 결과가 우수한 Relu 함수를 기본으로 적용
+  * 출력 함수의 activation에서는 stable한 결과를 얻기 위해 softmax 함수 적용
+  
 # CNN_Restaurant_Project
 
 ## 대학교 4학년 당시, "BigData Programing" 과목을 통한 프로젝트
