@@ -1,3 +1,4 @@
+2021년 상반기 진행
 # CNN_Restaurant_Project
 
 ## 대학교 4학년 당시, "BigData Programing" 과목을 통한 프로젝트
